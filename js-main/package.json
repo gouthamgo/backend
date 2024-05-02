@@ -4,7 +4,7 @@
   "description": "",
   "main": "12jsconcepts.js",
   "scripts": {
-    "start":"nodemon q1.js"
+    "start":"nodemon q2.js"
   },
   "keywords": [],
   "author": "",
