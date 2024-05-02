@@ -1,1 +1,5 @@
-.sdfx
+# Salesforce DX
+.sfdx/
+.sfdxignore
+.project-scratch-def.json
+.sfdx/orgs/
